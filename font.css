@@ -1,0 +1,173 @@
+
+@font-face{
+	font-family:marckscript;
+	 src : url(fonts/MarckScript-Regular.ttf);
+}
+h1{
+	color:#800000;
+	text-align:center;
+	font-size:70px;
+	text-decoration:underline;
+}
+h2{
+	color:#00008B;
+	text-align:center;
+	font-size:40px;
+}
+.unit{
+	color:#00FFFF;
+	font-size:40px;
+}
+.cm{
+	color:#FFAA00;
+	font-size:1cm;
+}
+li{
+	color:#AA00AA ;
+	font-size:40px;
+}
+.mm{
+	color:#FFAA00;
+	font-size:1mm;
+}
+.Q{
+	color:#FFAA00;
+	font-size:1Q;
+}
+.in{
+	color:#FFAA00;
+	font-size:1in;
+}
+.pc{
+	color:#FFAA00;
+	font-size:1pc;
+}
+.pt{
+	color:#FFAA00;
+	font-size:1pt;
+}
+.px{
+	color:#FFAA00;
+	font-size:1px;
+}
+.em{
+	color:#FFAA00;
+	font-size:1em;
+}
+.ex{
+	color:#FFAA00;
+	font-size:1ex;
+}
+.rem{
+	color:#FFAA00;
+	font-size:1rem;
+}
+.vh{
+	color:#FFAA00;
+	font-size:1vh;
+}
+.vw{
+	color:#FFAA00;
+	font-size:1vw;
+}
+.per{
+	color:#FFAA00;
+	font-size:250%;
+}
+li{
+	color:#AA00AA;
+	font-size:40px;
+}
+p{
+	color:#FFAA00;
+	font-size:35px;
+}
+.f1{
+	font-family:Courier New,monospace;
+}
+.f2{
+	font-family:Lucida Console,monospace;
+}
+.f3{
+	font-family:Monaco,monospace;
+}
+.f4{
+	font-family:Arial,sans serif;
+}
+.f5{
+	font-family:Verdana,sans serif;
+}
+.f6{
+	font-family:Helvetica,sans serif;
+}
+.f7{
+	font-family:Copperplate,fantasy;
+}
+.f8{
+	font-family:Papyrus,fantasy;
+}
+.f9{
+	font-family:Times New Roman,serif;
+}
+.f10{
+	font-family:Georgia,serif;
+}
+.f11{
+	font-family:Garamond,serif;
+}
+.f12{
+	font-family:Brush Script MT,cursive;
+}
+.f13{
+	font-family:Lucida Handwriting,cursive;
+}
+h3{
+	font-size:40px;
+	color:#AA00AA;
+}
+.a{
+	font-style:normal;
+}
+.b{
+	font-style:italic;
+}
+.c{
+	font-style:oblique;
+}
+.d{
+	font-weight:normal;
+}
+.e{
+	font-weight:lighter;
+}
+.f{
+	font-weight:bold;
+}
+.g{
+	font-weight:2000;
+}
+.h{
+	font-variant:normal;
+}
+.i{
+	font-variant:small-caps;
+}
+.fs{
+	font-size:50px;
+}
+h4{
+	color:orange;
+	font-size:35px;
+	font-family: 'Playfair Display', serif;
+}
+
+div{
+     background-color:blue;
+	font-family:arial;
+}
+.star{
+	font-family:marckscript;
+	font-size:30px;
+	color:orange;
+}
+
